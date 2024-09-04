@@ -6,6 +6,5 @@ Pancetta pork loin jowl burgdoggen ham hock biltong pig, turkey beef ribs bacon 
 Spare ribs flank pork brisket tail pork chop, bacon chislic jerky. Boudin beef ribs chicken burgdoggen corned beef. Meatball beef ribs swine kevin buffalo jowl rump tenderloin tongue flank. Kevin pork belly brisket pork bacon. Alcatra pig spare ribs, shankle kevin sirloin filet mignon. Buffalo meatloaf filet mignon rump t-bone tongue drumstick burgdoggen. Alcatra kielbasa bacon short loin sausage.
 #### Getting pretty small now
 ##### Post it note
-![This is not the Fort Hays Tech logo]
-(https://images.ctfassets.net/nvz650yohim6/2RWM8m78orJxIEPiDjeiRm/d9df0343aa1e61fddab723bc0273ff22/logo-guidelines-fy21-GTlogo-colour.jpeg)
+![This is not the Fort Hays Tech logo](https://images.ctfassets.net/nvz650yohim6/2RWM8m78orJxIEPiDjeiRm/d9df0343aa1e61fddab723bc0273ff22/logo-guidelines-fy21-GTlogo-colour.jpeg)
 ###### Might have to many sublevels
